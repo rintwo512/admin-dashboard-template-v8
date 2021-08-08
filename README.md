@@ -10,4 +10,4 @@ dark theme admin dashboard responsive  using bootstrap
 
 <h1>mobile</h1>
 
-![Screenshot 2021-08-08 201449](https://user-images.githubusercontent.com/59271775/128634273-1585ccda-2295-46d1-ba5b-dbbd87e84e27.png)
+![Screenshot 2021-08-08 201449](https://user-images.githubusercontent.com/59271775/128634273-1585ccda-2295-46d1-ba5b-dbbd87e84e27.png) ![Screenshot 2021-08-08 201642](https://user-images.githubusercontent.com/59271775/128634311-b3a9d42c-7f24-4706-a93d-6407bfebcca2.png)
